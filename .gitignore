@@ -225,3 +225,17 @@ __marimo__/
 __pycache__/
 
 .vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# Generated financial reports
+reports/*.md
+
+# Local environment variables
+.env
