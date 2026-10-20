@@ -189,4 +189,4 @@ GitHub: https://github.com/khaswrangdebbarma02-star
 
 ## License
 
-No license has been specified yet. If you want others to reuse, modify, or distribute this project, consider adding an appropriate open-source license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
